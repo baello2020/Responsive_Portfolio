@@ -74,8 +74,8 @@ main {
 }
 
 .headerImage h2 {
-  /* position: relative;
-  bottom: 0; */
+  position: relative;
+  bottom: 0; 
   float: right;
   background-color: #92ccce;
   padding: 5px;
